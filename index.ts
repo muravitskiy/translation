@@ -3364,7 +3364,7 @@ export const translations: Translations = {
     'Pilota da competizione',
     'Konkurencyjny pilot',
     'Piloto de competición',
-    'Пілот на змаганні',
+    'Пілот-спортсмен',
   ],
   moritzDescription: [
     'Cross-Country Explorer',
