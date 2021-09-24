@@ -364,7 +364,7 @@ const translations: Translations = {
     'Nessun sensore FES trovato, sensori FES consentiti: {}.',
     'Nie wykryto czujnika FES, dozwolone czujniki FES: {}.',
     '',
-    'Не вивлено сенсора FES, дозволені сенсори :{}.'
+    'Не виявлено сенсора FES, дозволені сенсори :{}.'
   ],
   NO_SCORING_WINDOWS: [
     'No scoring windows were found.',
