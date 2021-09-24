@@ -4831,7 +4831,7 @@ export const translations: Translations = {
     '',
     '',
     '',
-    'Піписатися на комісію',
+    'Піписатися з оплатою',
   ],
   thanksVeryMuch: [
     'Thanks very much!',
