@@ -4497,7 +4497,7 @@ export const translations: Translations = {
     'Scrivi un commento ...',
     'Napisz komentarz ...',
     'Escribir comentario ...',
-    'Написати коментарій ...',
+    'Написати коментар ...',
   ],
 
   // Task
@@ -4543,7 +4543,7 @@ export const translations: Translations = {
     'Esplorare',
     'Badać',
     'Explorar',
-    'Дослідження',
+    'Огляд',
   ],
   mine: [
     'Mine',
