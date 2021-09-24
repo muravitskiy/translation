@@ -104,7 +104,7 @@ export const translations: Translations = {
     'Per favore fai prima il log in',
     'Proszę najpierw się zalogować',
     'Por favor ingresa primero',
-    'Будь ласка, спочатку залогіньтесь',
+    'Будь ласка, спочатку виконайте вхід',
   ],
   errorServerTitle: [
     'Service unavailable',
@@ -126,7 +126,7 @@ export const translations: Translations = {
     'Per favore, riprova più tardi o contattaci',
     'Proszę spróbuj ponownie później albo skontaktuj się z nami',
     'Vuelve a intentarlo más tarde o contáctanos',
-    'Будь ласка, спробуйте пізніше, або зв\'яжіться з нами',
+    "Будь ласка, спробуйте пізніше, або зв'яжіться з нами",
   ],
   errorForm: [
     'Please check your form inputs',
@@ -148,7 +148,7 @@ export const translations: Translations = {
     "Verifica dell'email completata, esegui l'accesso",
     'Weryfikacja e-mail zakończona, proszę zaloguj się.',
     'Verificación de correo electrónico completa, inicie sesión.',
-    'Верифікація e-mail завершена, будь ласка залогіньтесь.',
+    'Верифікація e-mail завершена, будь ласка виконайте вхід.',
   ],
   notVerified: [
     'Please verify your Email first',
@@ -170,7 +170,7 @@ export const translations: Translations = {
     "Reset della password completata, esegui l'accesso",
     'Hasło zresetowane, proszę się zalogować',
     'Restablecimiento de contraseña completo, inicie sesión.',
-    'Скидання пароля завершено, будь ласка залогіньтесь.',
+    'Скидання пароля завершено, будь ласка виконайте вхід.',
   ],
   info: [
     'Information',
@@ -858,7 +858,7 @@ export const translations: Translations = {
     'Mostra',
     'pokaż',
     'show',
-    'Показати',
+    'показати',
   ],
   download: [
     'Download',
@@ -915,7 +915,7 @@ export const translations: Translations = {
     'Volo Cancellato',
     'Lot usunięty',
     'Vuelo eliminado',
-    'Видалені польоти',
+    'Політ видалено',
   ],
   flightSaved: [
     'Flight saved',
@@ -926,7 +926,7 @@ export const translations: Translations = {
     'Volo salvato',
     'Lot zapisany',
     'Vuelo guardado',
-    'Збережені польоти',
+    'Політ збережено',
   ],
   deleteConfirm: [
     'Confirm deletion?',
@@ -1119,7 +1119,7 @@ export const translations: Translations = {
     'Rettangolo',
     'Prostokąt',
     'Rectángulo',
-    'Чотирикутник',
+    'Прямокутник',
   ],
   MRT: [
     'Multi Rectangle',
@@ -1130,7 +1130,7 @@ export const translations: Translations = {
     'Multi Rettangolo',
     'Multi Prostokąt',
     'Rectángulo múltiple',
-    'Мульти Чотирикутник',
+    'Мульти Прямокутник',
   ],
   OR: [
     'Out and return',
@@ -1209,7 +1209,7 @@ export const translations: Translations = {
     'Nome',
     'Imię',
     'Nombre',
-    'Ім\'я',
+    "Ім'я",
   ],
   fullName: [
     'First and last name',
@@ -1220,7 +1220,7 @@ export const translations: Translations = {
     'Nome e Cognome',
     'Imię i nazwisko',
     'Nombre y apellido',
-    'Ім\'я та прізвище',
+    "Ім'я та прізвище",
   ],
   birthdate: [
     'Date of birth',
@@ -1352,7 +1352,7 @@ export const translations: Translations = {
     'ID Concorenza (opzionale)',
     'ID konkurecncji (opcjonalnie)',
     'ID de competición (opcional)',
-    'Змагальний ID',
+    'Змагальний ID (опціонально)',
   ],
   scoreClubClass: [
     'Score flight in club class',
@@ -1618,7 +1618,7 @@ export const translations: Translations = {
     'risposto al tuo commento.',
     'odpowiedział na twój komentarz.',
     'respondió tu comentario.',
-    'відповів на ваш коментарій',
+    'відповів на ваш коментарій.',
   ],
   sameFlightCommented: [
     'also commented on the flight from',
@@ -1763,7 +1763,7 @@ export const translations: Translations = {
     'Email inviata, segui le istruzioni al suo interno',
     'Email wysłany, proszę postępuj zgodnie z instrukcjami w nim zawartymi.',
     'Enviar correo electrónico, siga las instrucciones enviadas por correo.',
-    'Email відправлено, будь ласка слідуйте надісланим інструкціям.',
+    'Email відправлено, будь ласка виконайте надіслані інструкції.',
   ],
   recoverPassword: [
     'Recover password',
@@ -1831,7 +1831,7 @@ export const translations: Translations = {
     'Nessuno spazio aereo incrociato',
     'Żadna przestrzeń powietrzna nie została przekroczona',
     'No se cruzaron espacios aéreos.',
-    'Не порушено повітряних просторів',
+    'Не перетнуто повітряних просторів.',
   ],
 
   // Page not found
@@ -1969,7 +1969,7 @@ export const translations: Translations = {
     'Per favore ricarica la pagina.',
     'Proszę przeładuj stronę.',
     'vuelva a cargar esta página.',
-    'будь ласка, перезавантажте цю сторінку',
+    'будь ласка, перезавантажте цю сторінку.',
   ],
   points: [
     'Points',
@@ -2046,7 +2046,7 @@ export const translations: Translations = {
     'Rettangolo',
     'Prostokąt',
     'Rectángulo',
-    'Чотирикутник',
+    'Прямокутник',
   ],
   declaration: [
     'Declared',
@@ -2222,7 +2222,7 @@ export const translations: Translations = {
     'Totale',
     'Całkowite',
     'Total',
-    'Загалом',
+    'Підсумок',
   ],
   thermaling: [
     'Thermaling',
@@ -2697,7 +2697,7 @@ export const translations: Translations = {
     'Non ci sono ancora voli in questa sezione della mappa.',
     'W tej sekcji mapy nie ma jeszcze lotów.',
     'Aún no hay vuelos en esta sección del mapa.',
-    'Поки немає польотів в цій секції мапи',
+    'Поки немає польотів в цій секції мапи.',
   ],
 
   // Flight overview
@@ -2765,7 +2765,7 @@ export const translations: Translations = {
     'Nessuna competizione',
     'Brak konkursów',
     'Sin competiciones',
-    'Намає змагань',
+    'Немає змагань',
   ],
   list: [
     'List',
