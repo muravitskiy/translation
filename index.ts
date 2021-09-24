@@ -2002,7 +2002,7 @@ export const translations: Translations = {
     'Il volo è stato richiesto troppo tardi per questo concorso',
     'Lot zgłoszony za późno do tych zawodów',
     'Vuelo reclamado demasiado tarde para este concurso',
-    'Політ заявлено занадто пізно для даного контесту',
+    'Політ заявлено занадто пізно для даного змагання',
   ],
   free: [
     'Free',
@@ -3217,7 +3217,7 @@ export const translations: Translations = {
     'Regole del concorso',
     'Zasady zawodów',
     'Reglas del concurso',
-    'Правила контестів',
+    'Правила змагань',
   ],
   loggers: [
     'Loggers',
@@ -3902,7 +3902,7 @@ export const translations: Translations = {
     'Imperiale',
     'Imperialne',
     'Imperial',
-    'Імперіальна',
+    'Імперська',
   ],
   profileImageDragText: [
     'Drag your new profile picture here to upload or click to select',
@@ -3946,7 +3946,7 @@ export const translations: Translations = {
     'Integra i dati meteorologici SkySight in WeGlide',
     'Zintegruj dane pogodowe SkySight z WeGlide',
     'Integre los datos meteorológicos de SkySight en WeGlide',
-    'Підключити SkySight погодні дані до WeGlide',
+    'Підключити погодні дані SkySight до WeGlide',
   ],
   integrateCopilot: [
     'Link your COPILOT profile in WeGlide',
@@ -4161,7 +4161,7 @@ export const translations: Translations = {
     'Concorso',
     'Zawody',
     'Concurso',
-    'Контест',
+    'Змагання',
   ],
   freeDescription: [
     'WeGlide Distance Cup',
@@ -4453,7 +4453,7 @@ export const translations: Translations = {
     'Aggiungi commento',
     'Dodaj komentarz',
     'Nuevo comentario',
-    'Новий коментарій',
+    'Додати коментар',
   ],
   addVideo: [
     'Add video',
