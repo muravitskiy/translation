@@ -34,7 +34,7 @@ const translations: Translations = {
     'Più record A forniti.',
     'Podano wiele rekordów A.',
     '',
-    'Надано множинні A записи.',
+    'Надано множинні записи A.',
   ],
   NO_I_RECORD: [
     'NO I Record provided.',
@@ -45,7 +45,7 @@ const translations: Translations = {
     'Nessun record I fornito.',
     'Nie podano rekordu I.',
     '',
-    'I запис не надано.',
+    'Не надано запис I.',
   ],
   MULTIPLE_I_RECORDS: [
     'Multiple I records provided.',
@@ -56,7 +56,7 @@ const translations: Translations = {
     'Più record I forniti.',
     'Podano wiele rekordów I.',
     '',
-    'Надано множинні I записи.',
+    'Надано множинні записи I.',
   ],
   INVALID_H_RECORD: [
     'Invalid H record: {}.',
@@ -67,7 +67,7 @@ const translations: Translations = {
     'Record H non valido: {}',
     'Niepoprawny rekord H: {}.',
     '',
-    'Недійсний H запис: {}.',
+    'Недійсний запис H: {}.',
   ],
   C_RECORD_TOO_LONG: [
     'C records contains more than 20 lines, not able to parse task.',
@@ -78,7 +78,7 @@ const translations: Translations = {
     "I record C contengono più di 20 righe, non sono in grado di analizzare l'attività.",
     'Rekordy C zawierają więcej niż 20 lini, nie można przeanalizować zadania.',
     '',
-    'C запис містить більше 20 рядків, неможливо розпарсити завдання.',
+    'Запис C містить більше 20 рядків, неможливо розпарсити завдання.',
   ],
   NO_LANDING: [
     'Did not detect landing.',
@@ -89,7 +89,7 @@ const translations: Translations = {
     'Non è stato rilevato un atterraggio.',
     'Nie wykryto lądowania',
     '',
-    'Посадка не зафіксована.',
+    'Посадку не зафіксовано.',
   ],
   PRESS_ALT_VIOLATIONS: [
     'Pressure altitude range from {} to {} is exceeded in {} fixes.',
@@ -232,7 +232,7 @@ const translations: Translations = {
     'Nessun record A fornito.',
     'Nie podano rekordu A.',
     '',
-    'A запис не надано.',
+    'Не надано запис A.',
   ],
   INVALID_QNH_VALUE: [
     'Determined QNH of {} hPa (based on altitude provided) is not between limits of {} hPa and {} hPa.',
@@ -243,7 +243,7 @@ const translations: Translations = {
     "Il QNH determinato di {} hPa (in base all'altitudine fornita) non è compreso tra i limiti di {} hPa e {} hPa.",
     'Ustalone QNH o wartości {} hPA (bazowane na podanej wysokości) nie jest w granicach limitu od {} hPa do {} hPa.',
     '',
-    'Визначене QNH {} гПа (на основі наданої висоти) не знаходиться між лімітами {} гПа {} гПа.',
+    'Визначене QNH {} гПа (на основі наданої висоти) не знаходиться між лімітами {} гПа та {} гПа.',
   ],
   PRESS_ALT_NOT_VALID: [
     'Pressure altitude in file is not valid, maximum value is {} meters.',
@@ -265,7 +265,7 @@ const translations: Translations = {
     'Il record A è troppo corto.',
     'Rekord A jest za krótki.',
     '',
-    'A запис занадто короткий.',
+    'Запис A занадто короткий.',
   ],
   H_RECORD_NO_DATE: [
     'No date in H Record provided.',
@@ -276,7 +276,7 @@ const translations: Translations = {
     'Nessuna data in H record fornito',
     'Nie podano daty w rekordzie H',
     '',
-    'Відсутня дата в наданому H записі',
+    'Відсутня дата в наданому записі H',
   ],
   NO_H_RECORD: [
     'No H Record provided.',
@@ -287,7 +287,7 @@ const translations: Translations = {
     'Nessun record H fornito.',
     'Nie podano rekordu H.',
     '',
-    'H запис не надано.',
+    'Не надано запис H.',
   ],
   AVG_GNSS_ALT_CHANGE: [
     'Average GNSS altitude change between fixes in your file is {}, Minimum is {}.',
