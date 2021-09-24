@@ -437,7 +437,8 @@ export const translations: Translations = {
     'Frekvence',
     'Frequenza',
     'Częstotliwośc',
-    'Frecuencia'
+    'Frecuencia',
+    'Частота',
   ],
   description: [
     'Description',
