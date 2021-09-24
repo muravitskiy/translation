@@ -2835,7 +2835,7 @@ export const translations: Translations = {
     'Inizio punteggio',
     'Zcznij ocenianie',
     'Inicio de puntuación',
-    'Старт оцінювання',
+    'Початок оцінювання',
   ],
   scoringEnd: [
     'Scoring end',
@@ -4897,7 +4897,7 @@ export const translations: Translations = {
     '',
     '',
     '',
-    'Відмінити підписку',
+    'Скасувати підписку',
   ],
   becomeSupporter: [
     'Become Supporter',
@@ -4941,7 +4941,7 @@ export const translations: Translations = {
     '',
     '',
     '',
-    'Ви маленька, але дуже мотивована команда',
+    'Ми маленька, але дуже мотивована команда',
   ],
   yourImpactText: [
     'With your support, we not only keep this platform running but make it better every day. WeGlide is committed to high ethical, technical and scientific values ​​but the focus will alway be on You.',
@@ -5007,7 +5007,7 @@ export const translations: Translations = {
     '',
     '',
     '',
-    'Легко розумійте рішення в польоті',
+    'Легко розумійте рішення, прийняті в польоті',
   ],
   historyWeatherText: [
     'Know why a flight was particularly fast or slow at one point, why a pilot flew a detour that seemed superfluous. How do the best behave with a blue hole or shield? Select the cloud symbol and hover over the barogram to find out.',
